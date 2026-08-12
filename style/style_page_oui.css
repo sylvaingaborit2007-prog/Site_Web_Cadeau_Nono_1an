@@ -1,0 +1,87 @@
+/*Texte*/
+.h1
+{
+    position: absolute;   /* Permet de placer le texte n'importe où */
+    top: 42.5%;             /* Déplace le texte par rapport au haut de l'écran (ex: 5%) */
+    left: 30%;            /* Centre le bloc sur l'écran */
+    transform: translateX(-50%); /* Ajuste le centrage parfait du texte */
+    
+    width: auto;          /* Laisse le texte prendre sa taille naturelle */
+    white-space: nowrap;  /* Force le texte à rester sur une seule ligne */
+    z-index: 999;         /* Force le titre à passer devant absolument tout */
+
+    /* RETRECIR ET ENJOLIVER */
+    font-size: 35px;      /* Plus petit pour ne pas toucher les photos */
+    font-family:'Dancing Script', cursive;
+    color: rgb(196, 76, 164);
+    text-shadow: 4px 4px 8px rgba(220, 90, 179, 0.9);
+}
+
+.h2
+{
+    position: absolute;   /* Permet de placer le texte n'importe où */
+    top: 47.5%;             /* Déplace le texte par rapport au haut de l'écran (ex: 5%) */
+    left: 30%;            /* Centre le bloc sur l'écran */
+    transform: translateX(-50%); /* Ajuste le centrage parfait du texte */
+    
+    width: auto;          /* Laisse le texte prendre sa taille naturelle */
+    white-space: nowrap;  /* Force le texte à rester sur une seule ligne */
+    z-index: 999;         /* Force le titre à passer devant absolument tout */
+
+    /* RETRECIR ET ENJOLIVER */
+    font-size: 35px;      /* Plus petit pour ne pas toucher les photos */
+    font-family:'Dancing Script', cursive;
+    color: rgb(196, 76, 164);
+    text-shadow: 4px 4px 8px rgba(220, 90, 179, 0.9);
+}
+
+.h3
+{
+    position: absolute;   /* Permet de placer le texte n'importe où */
+    top: 52.5%;             /* Déplace le texte par rapport au haut de l'écran (ex: 5%) */
+    left: 30%;            /* Centre le bloc sur l'écran */
+    transform: translateX(-50%); /* Ajuste le centrage parfait du texte */
+    
+    width: auto;          /* Laisse le texte prendre sa taille naturelle */
+    white-space: nowrap;  /* Force le texte à rester sur une seule ligne */
+    z-index: 999;         /* Force le titre à passer devant absolument tout */
+
+    /* RETRECIR ET ENJOLIVER */
+    font-size: 35px;      /* Plus petit pour ne pas toucher les photos */
+    font-family:'Dancing Script', cursive;
+    color: rgb(196, 76, 164);
+    text-shadow: 4px 4px 8px rgba(220, 90, 179, 0.9);
+}
+
+/*Boutons*/
+.bouton-précédent
+{
+    position: absolute;
+    top: 65%;
+    left: 15%;
+
+    background-color: #e056b4;
+    color: white;
+    padding: 12px 24px;
+    font-size: 30px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.bouton-suivant
+{
+    position: absolute;
+    top: 65%;
+    left: 30%;
+
+    background-color: #e056b4;
+    color: white;
+    padding: 12px 24px;
+    font-size: 30px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+}

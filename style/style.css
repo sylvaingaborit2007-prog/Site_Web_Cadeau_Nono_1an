@@ -1,0 +1,23 @@
+/*body*/
+body
+{
+    /* Chemin vers votre image (locale ou lien internet) */
+    background-image: url('../Photos/fond.avif'); 
+    
+    /* Empêche l'image de se répéter comme une mosaïque */
+    background-repeat: no-repeat; 
+    
+    /* Couvre tout l'écran, peu importe la taille du navigateur */
+    background-size: cover; 
+    
+    /* Reste fixe lors du défilement de la page */
+    background-attachment: fixed; 
+    
+    /* Centre l'image verticalement et horizontalement */
+    background-position: center center;
+
+    /*Texte*/
+    color:antiquewhite;
+    font-size: 25px;
+    text-align: center;
+}

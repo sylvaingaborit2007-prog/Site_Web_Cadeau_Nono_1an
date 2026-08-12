@@ -1,0 +1,156 @@
+/*Photos de souvenir 1*/
+.ma-photo1 
+{
+    position: absolute;
+    top: 10%;            /* Distance par rapport au haut de l'écran (ex: 15%) */
+    left: 10%;           /* Distance par rapport à la gauche de l'écran (ex: 10%) */
+    max-width: 10%;      /* Taille de la photo */
+    height: auto;
+    border-radius: 12px; /* Optionnel : arrondit les angles de la photo */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Optionnel : ajoute une jolie ombre */
+
+    width: 250px;              /* Définissez une largeur fixe pour le cadre */
+    height: 200px;             /* Définissez une hauteur fixe identique (pour faire un carré) */
+    object-fit: cover;         /* Coupe les bords et garde uniquement le centre de la photo */
+    object-position: center;   /* Cadre précisément sur le milieu (horizontal et vertical) */
+    border-radius: 12%;        /* Optionnel : transforme le carré en un parfait cercle */
+    border: 3px solid white;   /* Optionnel : ajoute un joli contour blanc */
+}
+
+.ma-photo2
+{
+    position: absolute;
+    top: 10%;            /* Distance par rapport au haut de l'écran (ex: 15%) */
+    left: 20.25%;           /* Distance par rapport à la gauche de l'écran (ex: 10%) */
+    max-width: 10%;      /* Taille de la photo */
+    height: auto;
+    border-radius: 12px; /* Optionnel : arrondit les angles de la photo */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Optionnel : ajoute une jolie ombre */
+
+    width: 250px;              /* Définissez une largeur fixe pour le cadre */
+    height: 200px;             /* Définissez une hauteur fixe identique (pour faire un carré) */
+    object-fit: cover;         /* Coupe les bords et garde uniquement le centre de la photo */
+    object-position: center 20%;   /* Cadre précisément sur le milieu (horizontal et vertical) */
+    border-radius: 12%;        /* Optionnel : transforme le carré en un parfait cercle */
+    border: 3px solid white;   /* Optionnel : ajoute un joli contour blanc */
+}
+
+.ma-photo3
+{
+    position: absolute;
+    top: 10%;            /* Distance par rapport au haut de l'écran (ex: 15%) */
+    left: 30.5757%;           /* Distance par rapport à la gauche de l'écran (ex: 10%) */
+    max-width: 10%;      /* Taille de la photo */
+    height: auto;
+    border-radius: 12px; /* Optionnel : arrondit les angles de la photo */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Optionnel : ajoute une jolie ombre */
+
+    width: 250px;              /* Définissez une largeur fixe pour le cadre */
+    height: 200px;             /* Définissez une hauteur fixe identique (pour faire un carré) */
+    object-fit: cover;         /* Coupe les bords et garde uniquement le centre de la photo */
+    object-position: center 20%;   /* Cadre précisément sur le milieu (horizontal et vertical) */
+    border-radius: 12%;        /* Optionnel : transforme le carré en un parfait cercle */
+    border: 3px solid white;   /* Optionnel : ajoute un joli contour blanc */
+}
+
+.ma-photo4
+{
+    position: absolute;
+    top: 38%;            /* Distance par rapport au haut de l'écran (ex: 15%) */
+    left: 10%;           /* Distance par rapport à la gauche de l'écran (ex: 10%) */
+    max-width: 10%;      /* Taille de la photo */
+    height: auto;
+    border-radius: 12px; /* Optionnel : arrondit les angles de la photo */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Optionnel : ajoute une jolie ombre */
+
+    width: 250px;              /* Définissez une largeur fixe pour le cadre */
+    height: 200px;             /* Définissez une hauteur fixe identique (pour faire un carré) */
+    object-fit: cover;         /* Coupe les bords et garde uniquement le centre de la photo */
+    object-position: center;   /* Cadre précisément sur le milieu (horizontal et vertical) */
+    border-radius: 12%;        /* Optionnel : transforme le carré en un parfait cercle */
+    border: 3px solid white;   /* Optionnel : ajoute un joli contour blanc */
+}
+
+.ma-photo5
+{
+    position: absolute;
+    top: 38%;            /* Distance par rapport au haut de l'écran (ex: 15%) */
+    left: 20.25%;           /* Distance par rapport à la gauche de l'écran (ex: 10%) */
+    max-width: 10%;      /* Taille de la photo */
+    height: auto;
+    border-radius: 12px; /* Optionnel : arrondit les angles de la photo */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Optionnel : ajoute une jolie ombre */
+
+    width: 250px;              /* Définissez une largeur fixe pour le cadre */
+    height: 200px;             /* Définissez une hauteur fixe identique (pour faire un carré) */
+    object-fit: cover;         /* Coupe les bords et garde uniquement le centre de la photo */
+    object-position: center 70%;   /* Cadre précisément sur le milieu (horizontal et vertical) */
+    border-radius: 12%;        /* Optionnel : transforme le carré en un parfait cercle */
+    border: 3px solid white;   /* Optionnel : ajoute un joli contour blanc */
+}
+
+.ma-photo6
+{
+    position: absolute;
+    top: 66%;            /* Distance par rapport au haut de l'écran (ex: 15%) */
+    left: 10%;           /* Distance par rapport à la gauche de l'écran (ex: 10%) */
+    max-width: 10%;      /* Taille de la photo */
+    height: auto;
+    border-radius: 12px; /* Optionnel : arrondit les angles de la photo */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Optionnel : ajoute une jolie ombre */
+
+    width: 250px;              /* Définissez une largeur fixe pour le cadre */
+    height: 200px;             /* Définissez une hauteur fixe identique (pour faire un carré) */
+    object-fit: cover;         /* Coupe les bords et garde uniquement le centre de la photo */
+    object-position: left;   /* Cadre précisément sur le milieu (horizontal et vertical) */
+    border-radius: 12%;        /* Optionnel : transforme le carré en un parfait cercle */
+    border: 3px solid white;   /* Optionnel : ajoute un joli contour blanc */
+}
+
+/*Bouton*/
+.bouton_souvenir1
+{
+    background-color: #e056b4;
+    color: white;
+    margin-left: 450px;
+    margin-top: 150px;
+    padding: 12px 24px;
+    font-size: 30px;
+    border: none;
+    border-radius: 80px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.bouton_back
+{
+    background-color: #e056b4;
+    color: white;
+    margin-left: 800px;
+    margin-top: 325px;
+    padding: 12px 24px;
+    font-size: 30px;
+    border: none;
+    border-radius: 80px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+/*Texte*/
+.h1
+{
+    position: absolute;   /* Permet de placer le texte n'importe où */
+    top: 50%;             /* Déplace le texte par rapport au haut de l'écran (ex: 5%) */
+    left: 45%;            /* Centre le bloc sur l'écran */
+    transform: translateX(-50%); /* Ajuste le centrage parfait du texte */
+    
+    width: auto;          /* Laisse le texte prendre sa taille naturelle */
+    white-space: nowrap;  /* Force le texte à rester sur une seule ligne */
+    z-index: 999;         /* Force le titre à passer devant absolument tout */
+
+    /* RETRECIR ET ENJOLIVER */
+    font-size: 28px;      /* Plus petit pour ne pas toucher les photos */
+    font-family:'Dancing Script', cursive;
+    color: rgb(196, 76, 164);
+    text-shadow: 4px 4px 8px rgba(220, 90, 179, 0.9);
+}
